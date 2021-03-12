@@ -52,6 +52,6 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>https://github.com/ximanta/sfg-pet-clinic-4.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/ximanta/sfg-pet-clinic-4.git</developerConnection>
     </scm>
 </project>
